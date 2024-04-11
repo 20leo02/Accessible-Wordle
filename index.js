@@ -1,3 +1,4 @@
+
 $(document).ready(function() {
     let secretWord = "";
     let utterance = new SpeechSynthesisUtterance();
